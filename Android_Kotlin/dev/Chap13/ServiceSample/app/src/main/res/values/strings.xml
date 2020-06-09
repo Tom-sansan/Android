@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Service Sample</string>
+    <string name="bt_play_play">Play</string>
+    <string name="bt_play_stop">Stop</string>
+    <string name="msg_notification_title_start">Start Play</string>
+    <string name="msg_notification_text_start">Started Playing music file</string>
+    <string name="msg_notification_title_finish">Play Finished</string>
+    <string name="msg_notification_text_finish">Finished Playing Media File</string>
+    <!-- Notification -->
+    <string name="notification_channel_name">Service Sample Notification</string>
+    <string name="notification_channel_id">soundmanagerservice_notification_channel</string>
+    <!-- Exception -->
+    <string name="ex_illegal_Args">Media Player Illegal Argument Exception before starting.</string>
+    <string name="ex_io_exception">Media Player IO Exception before starting.</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">List View Sample</string>
+
+    <string-array name="lv_menu">
+        <item>Fried Chicken Set Meal</item>
+        <item>Salisbury Steak Platter</item>
+        <item>Ginger Fried Pork Set</item>
+        <item>Steak Platter</item>
+        <item>Vegetable Stir Fry Meal</item>
+        <item>Pork Katsu Meal</item>
+        <item>Fried Minced Meat Meal</item>
+        <item>Chicken Katsu Meal</item>
+        <item>Croquette Meal</item>
+        <item>Grilled Fish Meal</item>
+        <item>BBQ Meal</item>
+    </string-array>
+</resources>

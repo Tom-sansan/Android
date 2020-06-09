@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Media Sample</string>
+    <string name="bt_play_play">Play</string>
+    <string name="bt_play_pause">Stop</string>
+    <string name="bt_back">&lt;&lt;</string>
+    <string name="bt_forward">&gt;&gt;</string>
+    <string name="tv_loop">Repeat</string>
+    <!-- Exception -->
+    <string name="ex_illegal_Args">Media Player Illegal Argument Exception before starting.</string>
+    <string name="ex_io_exception">Media Player IO Exception before starting.</string>
+</resources>

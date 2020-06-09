@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List View Sample2</string>
+    <string name="dialog_title">Order Confirmation</string>
+    <string name="dialog_msg">Are you sure to order the meal you chose?</string>
+    <string name="dialog_btn_ok">Order</string>
+    <string name="dialog_btn_ng">Cancel</string>
+    <string name="dialog_btn_nu">Contact</string>
+    <string name="dialog_ok_toast">Thank you for your order!</string>
+    <string name="dialog_ng_toast">Canceled your order.</string>
+    <string name="dialog_nu_toast">Please let us know your request.</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menu Sample</string>
+    <string name="tv_menu_unit">$</string>
+    <string name="menu_list_options_meal">Meal</string>
+    <string name="menu_list_options_curry">Curry</string>
+    <string name="menu_list_context_desc">Show Description</string>
+    <string name="menu_list_context_order">Order</string>
+    <string name="menu_list_context_header">Select menu below</string>
+    <string name="tv_thx_title">Order Completed!!</string>
+    <string name="tv_thx_desc">We\'ve received your order. \nThank you for your order!</string>
+    <string name="bt_thx_back">Back to List</string>
+</resources>

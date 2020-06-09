@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Camera Intent Sample</string>
+    <!-- Date Format-->
+    <string name="date_format_yyyyMMddHHmmss">yyyyMMddHHmmss</string>
+    <!-- Image File Name -->
+    <string name="image_file_name">UseCameraActivityPhoto_</string>
+    <string name="file_extension_jpg">.jpg</string>
+    <string name="image_type_jpeg">image/jpeg</string>
+</resources>

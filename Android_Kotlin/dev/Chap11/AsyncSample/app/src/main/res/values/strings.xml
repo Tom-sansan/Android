@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Async Sample</string>
+    <string name="tv_winfo_title">Weather Info Details</string>
+    <string name="url_livedoor_api">http://weather.livedoor.com/forecast/webservice/json/v1?city=</string>
+</resources>

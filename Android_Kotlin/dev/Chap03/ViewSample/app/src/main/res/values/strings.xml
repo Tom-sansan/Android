@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">View Sample</string>
+    <string name="tv_msg">Enter Name:</string>
+    <string name="bt_save">Save</string>
+    <string name="cb_drink">Drink</string>
+    <string name="cb_food">Food</string>
+    <string name="rb_male">Male</string>
+    <string name="rb_female">Female</string>
+
+    <string-array name="sp_currylist">
+        <item>Dry Curry</item>
+        <item>Pork Katsu Curry</item>
+        <item>Beef Curry</item>
+        <item>Chicken Curry</item>
+        <item>Seafood Curry</item>
+        <item>Keema Curry</item>
+        <item>Green Curry</item>
+    </string-array>
+
+    <string-array name="lv_cocktaillist">
+        <item>White Lady</item>
+        <item>Balalaika</item>
+        <item>XYZ</item>
+        <item>New York</item>
+        <item>Manhattan</item>
+        <item>Mississippi Mule</item>
+        <item>Blue Hawaii</item>
+    </string-array>
+</resources>

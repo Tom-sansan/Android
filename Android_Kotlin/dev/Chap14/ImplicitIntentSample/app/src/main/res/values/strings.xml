@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Implicit Intent Sample</string>
+    <string name="bt_map_search">Search Map</string>
+    <string name="bt_map_current">Show Map</string>
+    <string name="tv_current_title">Current Location</string>
+    <string name="tv_latitude_title">Latitude:</string>
+    <string name="tv_longitude_title">Longitude:</string>
+    <!-- Geo URI String -->
+    <string name="geo_0_0">geo:0,0?q=</string>
+    <string name="geo">geo:</string>
+</resources>

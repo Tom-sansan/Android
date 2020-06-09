@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intent Sample</string>
+    <string name="tv_thx_title">Order Completed!!</string>
+    <string name="tv_thx_desc">We received your order. \nThank you for your oder!</string>
+    <string name="bt_thx_back">Back to List</string>
+</resources>
